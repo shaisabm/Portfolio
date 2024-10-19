@@ -1,0 +1,155 @@
+[
+  {
+    "date": "Jul. 2024 -- present",
+    "logo": "/images/nyitLogo.png",
+    "alt": "nyit logo",
+    "info": {
+      "title": "Software Engineer",
+      "company": "New York Institute of Tech",
+      "location": "New York, NY",
+      "bullets": [
+        "Developing a web application for NYIT to manage event tracking, registration, and participation using Django, Django REST Framework, and PostgreSQL for backend development",
+        "Tested and improved the official NYIT website using Selenium for automated testing and JIRA for issue tracking, contributing to a 15% increase in page load speed and a 20% reduction in user-reported issues"
+      ],
+      "skills": [
+        "JavaScript",
+        "Django",
+        "PostgreSQL",
+        "Selenium",
+        "JIRA",
+        "REST APIs"
+      ]
+    }
+  },
+  {
+    "date": "Jun. 2024 -- present",
+    "logo": "/images/outlierAILogo.png",
+    "alt": "outlier ai logo",
+    "info": {
+      "title": "Prompt Engineer",
+      "company": "Outlier AI",
+      "location": "Remote",
+      "bullets": [
+        "Designed and engineered high-quality prompts for 5+ generative AI projects, fine-tuning various LLMs such as xAI, improving model performance and ensuring accurate outputs.",
+        "Promoted to Reviewer role, responsible for evaluating and enhancing the quality of prompts created by team members, maintaining a 98% quality assurance standard across all reviewed projects.",
+        "Conducted rigorous prompt testing and A/B comparisons, iterating on prompt designs to drive higher precision in LLM-generated results and improving user satisfaction by 15%."
+      ],
+      "skills": [
+        "Prompt Engineering",
+        "LLMs",
+        "GenAI",
+        "A/B Testing"
+      ]
+    }
+  },
+  {
+    "date": "Jul. 2024 -- Sep. 2024",
+    "logo": "/images/headstarterLogo.png",
+    "alt": "headstarter logo",
+    "info": {
+      "title": "AI Software Engineer Fellow",
+      "company": "Headstarter AI",
+      "location": "New York, NY",
+      "bullets": [
+        "Built 4+ AI apps and APIs using NextJS, OpenAI, REST, StripeAPI, with 98% accuracy as seen by 1000 users.",
+        "Developed projects from design to deployment leading 4+ engineering fellows using MVC design patterns.",
+        "Coached by Stripe, Meta and Google engineers on Agile, CI/CD, Git and microservice patterns."
+      ],
+      "skills": [
+        "NextJS",
+        "OpenAI",
+        "REST",
+        "StripeAPI",
+        "MVC",
+        "Agile",
+        "CI/CD",
+        "Git",
+        "Microservices"
+      ]
+    }
+  },
+  {
+    "date": "Jul. 2024 -- Aug. 2024",
+    "logo": "/images/mjhsLogo.jpg",
+    "alt": "mjhs logo",
+    "info": {
+      "title": "Web Operator Intern",
+      "company": "MJHS",
+      "location": "New York, NY",
+      "bullets": [
+        "Collaborated with a team to build an AI Agent on Google Cloud, seamlessly integrating it into a WordPress website, enabling 2,000 employees to access HR information quickly.",
+        "Automated multiple manual processes on the WordPress site by creating Python scripts using Selenium in IntelliJ IDE, significantly reducing operational workload and increasing efficiency.",
+        "Led team presentation to the HR department on the AI solution, showcasing the system's capabilities and receiving positive feedback, demonstrating leadership and communication skills."
+      ],
+      "skills": [
+        "Google Cloud",
+        "WordPress",
+        "Python",
+        "Selenium",
+        "IntelliJ IDE"
+      ]
+    }
+  },
+  {
+    "date": "Feb. 2024 -- Mar. 2024",
+    "logo": "/images/dc37Logo.jpg",
+    "alt": "dc37 logo",
+    "info": {
+      "title": "Assistant Accountant",
+      "company": "DC37",
+      "location": "New York, NY",
+      "bullets": [
+        "Spearheaded the automation of monthly transaction data entry using python, which increased data entry efficiency by 95%.",
+        "Efficiently managed and processed over 20 invoices weekly, resulting in a 15% improvement in payment cycle time.",
+        "Conducted regular audits of financial documents, uncovering and resolving discrepancies that saved the company $5,000."
+      ],
+      "skills": [
+        "Python",
+        "Data Entry",
+        "Auditing"
+      ]
+    }
+  },
+  {
+    "date": "Jul. 2023 -- Aug. 2023",
+    "logo": "/images/solarOneLogo.webp",
+    "alt": "solar one logo",
+    "info": {
+      "title": "Solar System Designer",
+      "company": "Solar One",
+      "location": "New York, NY",
+      "bullets": [
+        "Designed and implemented 3,500 kW solar panel systems using Helioscope for over 100 clients, accelerating green energy adoption and reducing carbon footprints across New York City.",
+        "Authored 5+ in-depth solar photovoltaic cost-benefit analyses, leveraging energy consumption data to provide actionable insights, aiding clients in making informed solar investment decisions.",
+        "Assessed solar energy viability for 50 projects across NYC's five boroughs using Helioscope, Google Maps, and NearMap, optimizing system performance and ensuring maximum energy efficiency."
+      ],
+      "skills": [
+        "Helioscope",
+        "Google Maps",
+        "NearMap"
+      ]
+    }
+  },
+  {
+    "date": "Jan. 2023 -- Feb. 2023",
+    "logo": "/images/weworkLogo.webp",
+    "alt": "wework logo",
+    "info": {
+      "title": "Web Developer and Research Assistant Intern",
+      "company": "WeWork",
+      "location": "New York, NY",
+      "bullets": [
+        "Developed a user-friendly Wi-Fi login interface for over 600,000 clients utilizing HTML, CSS and JavaScript, boosting Wi-Fi usage by 30% and improving the onboarding experience.",
+        "Designed and implemented automated python scripts for data analysis, reducing manual workload by 40% and increasing productivity.",
+        "Developed robust predictive sales models in R, achieving an 80% accuracy rate and enabling data-driven decisions that optimized business forecasting."
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "R"
+      ]
+    }
+  }
+]

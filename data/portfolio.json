@@ -1,0 +1,142 @@
+{
+  "name": "Shaisab",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Shaisab Mistry",
+  "headerTaglineThree": "Software Engineer",
+  "headerTaglineFour": " based in New York City",
+  "headerTaglineFive": "Pursuing B.S. in Computer Science at NYIT",
+  "headerTaglineSix": "Expected May 2028",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/shaisabm"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/shaisab-mistry/"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:shaisabmistry@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Flashcards Generator with Text",
+      "description": [
+        "Next.js",
+        "Clerk API",
+        "TypeScript",
+        "JavaScript",
+        "Firebase",
+        "Material UI",
+        "OpenAI API"
+      ],
+      "imageSrc": "https://github.com/shaisabm/Flashcards-Generator-With-Texts/blob/main/Screenshot_1.png?raw=true",
+      "url": "https://flashcards-generator-with-texts.vercel.app/"
+    },
+    {
+      "id": "2",
+      "title": "Open Source AI Agent",
+      "description": [
+        "Python",
+        "Jupyter Notebook",
+        "Groq API",
+        "OpenRouter API",
+        "OpenAI API"
+      ],
+      "imageSrc": "https://github.com/shaisabm/Open-Source-AI-Agent/blob/main/Arc.png?raw=true",
+      "url": "https://github.com/shaisabm/Open-Source-AI-Agent"
+    },
+    {
+      "id": "3",
+      "title": "EduView LMS",
+      "description": [
+        "Django",
+        "REST APIs",
+        "Python",
+        "JavaScript",
+        "PostgreSQL",
+        "AWS",
+        "Bootstrap",
+        "HTML/CSS"
+      ],
+      "imageSrc": "https://github.com/shaisabm/EduView/blob/main/screenshot_1.png?raw=true",
+      "url": "http://3.82.97.118:8000/"
+    },
+    {
+      "id": "4",
+      "title": "NASA APOD Project",
+      "description": [
+        "Vite.js",
+        "React.js",
+        "JavaScript",
+        "NASA APOD API"
+      ],
+      "imageSrc": "https://github.com/shaisabm/NASA-APOD-PROJECT/blob/main/example_1.png?raw=true",
+      "url": "https://nasa-apod-project-taupe.vercel.app/"
+    }
+  ],
+  "services": [],
+  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": [
+      "Javascript",
+      "Java",
+      "Python",
+      "R",
+      "HTMl/CSS",
+      "Shell Scripting"
+    ],
+    "frameworks": [
+      "NextJS",
+      "ReactJS",
+      "NodeJs",
+      "Django",
+      "Django REST Framework",
+      "Bootstrap"
+
+    ],
+    "others": [
+      "Firebase",
+      "postgreSQL",
+      "Git",
+      "AWS",
+      "Azure",
+      "Linux",
+      "Selenium",
+      "PowerBi"
+    ]
+  }
+}
