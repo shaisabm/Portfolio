@@ -116,14 +116,14 @@ export default function Home() {
                     <h5
                         ref={textFive}
 
-                        className="text-3xl tablet:text-xl laptop:text-xl laptopl:text-xl pl-2.5 text-bold w-full laptop:w-4/5"
+                        className="text-xl tablet:text-xl laptop:text-xl laptopl:text-xl pl-2.5 text-bold w-full laptop:w-4/5"
                     >
                         {data.headerTaglineFive}
                     </h5>
                     <h5
                         ref={texSix}
 
-                        className="text-3xl tablet:text-xl laptop:text-xl laptopl:text-xl pl-2.5 text-bold w-full laptop:w-4/5"
+                        className="text-xl tablet:text-xl laptop:text-xl laptopl:text-xl pl-2.5 text-bold w-full laptop:w-4/5"
                     >
                         {data.headerTaglineSix}
                     </h5>

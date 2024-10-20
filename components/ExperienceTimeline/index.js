@@ -35,7 +35,7 @@ const ExperienceTimeline = () => {
                     key={index}
                     className="vertical-timeline-element--work"
                     contentStyle={{background: styles.background, color: styles.color}}
-                    contentArrowStyle={{borderRight: '7px solid #2c3e50'}}
+                    contentArrowStyle={{borderRight: `7px solid ${styles.background}`}}
                     date={experience.date}
                     iconStyle={{background: '#2c3e50', color: '#fff'}}
                     icon={
