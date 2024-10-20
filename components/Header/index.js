@@ -70,26 +70,12 @@ const Header = ({handleWorkScroll, handleSkillsScroll, handleExperienceScroll, i
                         >
                             {!isBlog ? (
                                 <div className="grid grid-cols-1">
-                                    <Button onClick={handleWorkScroll}>Work</Button>
                                     <Button onClick={handleExperienceScroll}>Experiences</Button>
-                                    {showBlog && (
-                                        <Button onClick={() => router.push("/blog")}>Blog</Button>
-                                    )}
-                                    {/*{showResume && (*/}
-                                    {/*  <Button*/}
-                                    {/*    onClick={() =>*/}
-                                    {/*      window.open("mailto:shaisabmistry@gmail.com")*/}
-                                    {/*    }*/}
-                                    {/*  >*/}
-                                    {/*    Resume*/}
-                                    {/*  </Button>*/}
-                                    {/*)}*/}
+                                    <Button onClick={handleWorkScroll}>Projects</Button>
+                                    <Button onClick={handleSkillsScroll}>Skills</Button>
 
-                                    <Button
-                                        onClick={() => window.open("mailto:shaisabmistry@gmail.com")}
-                                    >
-                                        Contact
-                                    </Button>
+
+
                                 </div>
                             ) : (
                                 <div className="grid grid-cols-1">
