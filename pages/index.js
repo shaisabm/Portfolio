@@ -13,7 +13,7 @@ import ExperienceTimeline from "../components/ExperienceTimeline";
 import SkillsSection from "../components/SkillCategory";
 // Local Data
 import data from "../data/portfolio.json";
-import {resume} from "../data/portfolio.json";
+import portfolioData from "../data/portfolio.json";
 
 export default function Home() {
     // Ref
@@ -159,7 +159,7 @@ export default function Home() {
                     </div>
                 )}
                 <div ref={skillsRef}>
-                    <SkillsSection resume={resume}/>
+                    <SkillsSection resume={portfolioData.resume}/>
 
                 </div>
 
