@@ -32,6 +32,7 @@ const ExperienceTimeline = () => {
             {data.map((experience, index) => (
 
                 <VerticalTimelineElement
+                    key={index}
                     className="vertical-timeline-element--work"
                     contentStyle={{background: styles.background, color: styles.color}}
                     contentArrowStyle={{borderRight: '7px solid #2c3e50'}}
@@ -48,14 +49,14 @@ const ExperienceTimeline = () => {
                     <h3 className="vertical-timeline-element-title">{experience.info.title}</h3>
                     <h4 className="vertical-timeline-element-subtitle">{experience.info.company} - {experience.info.location}</h4>
                     {experience.info.bullets.map((bullet, index) => (
-                        <p>
+                        <p key={index}>
                             &#8226; {bullet}
                         </p>
                     ))}
 
                     <div className="tech-tags">
                         {experience.info.skills.map((skill, index) => (
-                            <span className="tech-tag">{skill}</span>
+                            <span key={index} className="tech-tag">{skill}</span>
 
                         ))}
                     </div>
