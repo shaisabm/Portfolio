@@ -3,7 +3,7 @@ import {VerticalTimeline, VerticalTimelineElement} from 'react-vertical-timeline
 import 'react-vertical-timeline-component/style.min.css';
 import {useTheme} from 'next-themes';
 import {useEffect, useState} from 'react';
-import data from "../../data/experiences.json";
+import data from "/data/experiences.json";
 
 const ExperienceTimeline = () => {
 
