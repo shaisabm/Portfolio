@@ -11,6 +11,8 @@ import Link from "next/link";
 import Cursor from "../components/Cursor";
 import ExperienceTimeline from "../components/ExperienceTimeline";
 import SkillsSection from "../components/SkillCategory";
+import { Analytics } from "@vercel/analytics/react"
+
 // Local Data
 import data from "../data/portfolio.json";
 import portfolioData from "../data/portfolio.json";
@@ -45,13 +47,7 @@ export default function Home() {
             behavior: "smooth",
         });
     };
-    // const handleAboutScroll = () => {
-    //     window.scrollTo({
-    //         top: aboutRef.current.offsetTop,
-    //         left: 0,
-    //         behavior: "smooth",
-    //     });
-    // };
+
 
     const handleSkillsScroll = () => {
         window.scrollTo({
