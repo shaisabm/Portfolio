@@ -11,7 +11,7 @@ import Link from "next/link";
 import Cursor from "../components/Cursor";
 import ExperienceTimeline from "../components/ExperienceTimeline";
 import SkillsSection from "../components/SkillCategory";
-import { Analytics } from "@vercel/analytics/react"
+import {Analytics} from "@vercel/analytics/react"
 
 // Local Data
 import data from "../data/portfolio.json";
@@ -122,6 +122,13 @@ export default function Home() {
                         className="text-xl tablet:text-xl laptop:text-xl laptopl:text-xl pl-2.5 text-bold w-full laptop:w-4/5"
                     >
                         {data.headerTaglineSix}
+                    </h5>
+                    <h5
+                        ref={texSix}
+
+                        className="text-xl tablet:text-xl laptop:text-xl laptopl:text-xl pl-2.5 text-bold w-full laptop:w-4/5"
+                    >
+                        {data.headerTaglineSeven}
                     </h5>
 
                     <Socials className="mt-2 laptop:mt-5"/>
