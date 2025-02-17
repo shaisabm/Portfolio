@@ -27,6 +27,7 @@ export default function Home() {
     const textFour = useRef();
     const textFive = useRef();
     const texSix = useRef()
+    const texSeven = useRef()
     const expRef = useRef()
     const skillsRef = useRef()
 
@@ -124,7 +125,7 @@ export default function Home() {
                         {data.headerTaglineSix}
                     </h5>
                     <h5
-                        ref={texSix}
+                        ref={texSeven}
 
                         className="text-xl tablet:text-xl laptop:text-xl laptopl:text-xl pl-2.5 text-bold w-full laptop:w-4/5"
                     >
