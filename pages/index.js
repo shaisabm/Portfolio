@@ -60,7 +60,7 @@ export default function Home() {
 
     useIsomorphicLayoutEffect(() => {
         stagger(
-            [textOne.current, textTwo.current, textThree.current, textFour.current, textFive.current, texSix.current, texSeven.current],
+            [textOne.current, textTwo.current, textThree.current, textFour.current, textFive.current, texSix.current, texSeven.current ],
             {y: 40, x: -10, transform: "scale(0.95) skew(10deg)"},
             {y: 0, x: 0, transform: "scale(1)"}
         );
