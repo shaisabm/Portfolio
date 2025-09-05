@@ -1,6 +1,24 @@
 [
   {
-    "date": "Jul. 2024 -- present",
+    "date": "Jul. 2025 -- Sep. 2025",
+    "logo": "/images/klimado.jpeg",
+    "alt": "klimado logo",
+    "info": {
+      "title": "Frontend Developer",
+      "company": "Klimado",
+      "location": "Frankfurt am Main, Germany",
+      "bullets": [
+      ],
+      "skills": [
+        "Next.js",
+        "Tailwind CSS",
+        "React.js",
+        "REST APIs"
+      ]
+    }
+  },
+  {
+    "date": "Sep. 2024 -- Jul. 2025",
     "logo": "/images/nyitLogo.png",
     "alt": "nyit logo",
     "info": {
@@ -22,7 +40,7 @@
     }
   },
   {
-    "date": "Jun. 2024 -- present",
+    "date": "Oct. 2024 -- Mar. 2026",
     "logo": "/images/outlierAILogo.png",
     "alt": "outlier ai logo",
     "info": {
