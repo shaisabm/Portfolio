@@ -26,8 +26,9 @@
       "company": "New York Institute of Tech",
       "location": "New York, NY",
       "bullets": [
-        "Developing a web application for NYIT to manage event tracking, registration, and participation using Django, Django REST Framework, and PostgreSQL for backend development",
-        "Tested and improved the official NYIT website using Selenium for automated testing and JIRA for issue tracking, contributing to a 15% increase in page load speed and a 20% reduction in user-reported issues"
+        "Developing a web application for NYIT to manage event tracking, registration, and participation using Django, Django REST Framework, and PostgreSQL for backend development.",
+        "Tested and improved the official NYIT website using Selenium for automated testing and JIRA for issue tracking, contributing to a 15% increase in page load speed and a 20% reduction in user-reported issues.",
+        "Conducted 150 automated Selenium tests and managed 70 JIRA tickets for the NYIT website, contributing to a 15\\% faster page load speed and impacting 5,000 weekly users."
       ],
       "skills": [
         "JavaScript",
@@ -49,8 +50,8 @@
       "location": "Remote",
       "bullets": [
         "Designed and engineered high-quality prompts for 5+ generative AI projects, fine-tuning various LLMs such as xAI, improving model performance and ensuring accurate outputs.",
-        "Promoted to Reviewer role, responsible for evaluating and enhancing the quality of prompts created by team members, maintaining a 98% quality assurance standard across all reviewed projects.",
-        "Conducted rigorous prompt testing and A/B comparisons, iterating on prompt designs to drive higher precision in LLM-generated results and improving user satisfaction by 15%."
+        "Promoted to Reviewer, overseeing prompt quality by team members, maintaining a 98% quality assurance standard across reviewed projects.",
+        "Executed over 1,000 prompt tests and A/B comparisons, refining designs to enhance LLM result precision and raise client satisfaction by 40%."
       ],
       "skills": [
         "Prompt Engineering",
